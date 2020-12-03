@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707248029857",
+    "firebase_url": "https://parcial2eco.firebaseio.com",
+    "project_id": "parcial2eco",
+    "storage_bucket": "parcial2eco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707248029857:android:0fb39664dd7f603ba1f0e0",
+        "android_client_info": {
+          "package_name": "com.example.parcial2eco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707248029857-9ibmke5au34pts44jprq5aj978b835cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy09uqdX9ILXxoa3Ygwp6Sh7Dw_nXlFY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707248029857-9ibmke5au34pts44jprq5aj978b835cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
